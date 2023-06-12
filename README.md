@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 🌱 公众号： 仙友道
 
+<img align="right" src="https://github.com/Awrrays/Awrrays/blob/main/qr.jpg" width="380">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Awrrays&show_icons=true&theme=radical" width="380">
 
 <img src="https://profile-counter.glitch.me/Awrrays/count.svg" width="200">
