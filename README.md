@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌱 公众号： 仙友道
 
-<img src="https://github.com/Awrrays/Awrrays/blob/main/qr.jpg">
+<img src="https://github.com/Awrrays/Awrrays/blob/main/qr.jpg" width="200">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Awrrays&show_icons=true&theme=radical" width="380">
 
