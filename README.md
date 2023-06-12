@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 Here are some ideas to get you started:
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Awrrays&show_icons=true&theme=radical" width="380">
+<img src="https://github-readme-stats.vercel.app/api?username=Awrrays&show_icons=true&theme=radical" width="380">
 
 - 🌱 公众号： 仙友道
-- [![GitHub Uknow](https://img.shields.io/github/followers/Awrrays?label=follower%20github&style=flat-square)](https://github.com/Awrrays)
 
-
-<img align='right' src="https://profile-counter.glitch.me/Awrrays/count.svg" width="200">
+<img src="https://profile-counter.glitch.me/Awrrays/count.svg" width="200">
