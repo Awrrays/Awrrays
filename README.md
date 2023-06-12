@@ -1,4 +1,5 @@
-<img align="right" src="https://github.com/Awrrays/Awrrays/blob/main/qr.jpg" width="300">
+<img align="right" src="https://github.com/Awrrays/Awrrays/blob/main/qr.jpg" width="310">
+
 ### Hi there 👋
 
 <!--
