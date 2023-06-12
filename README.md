@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Here are some ideas to get you started:
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Awrrays&show_icons=true&theme=radical" width="380">
+
+- 🌱 公众号： 仙友道
+- [![GitHub Uknow](https://img.shields.io/github/followers/Awrrays?label=follower%20github&style=flat-square)](https://github.com/Awrrays)
+
+
+<img align='right' src="https://profile-counter.glitch.me/Awrrays/count.svg" width="200">
