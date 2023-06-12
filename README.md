@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/Awrrays/Awrrays/blob/main/qr.jpg" width="300">
 ### Hi there 👋
 
 <!--
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github.com/Awrrays/Awrrays/blob/main/qr.jpg" width="380">
+
 Here are some ideas to get you started:
 
 🌱 公众号： 仙友道
